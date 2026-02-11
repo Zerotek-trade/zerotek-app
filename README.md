@@ -166,5 +166,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Powered by [Solana](https://solana.com/)
 
 ---
-
 **⚠️ Disclaimer**: ZeroTek is a trading simulator for educational purposes only. No real funds are involved. Always do your own research before trading with real money.
